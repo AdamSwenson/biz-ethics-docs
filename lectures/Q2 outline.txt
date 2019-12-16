@@ -1,0 +1,101 @@
+VERSION v.0.1.0
+
+Q2: Bads and blames	?
+     I.	Intro	?
+     II.	Test cases	?
+          A.	Data hoarder	?
+          B.	Argument tweeter	?
+          C.	Internet isolation	?
+          D.	People Ratings Agencies	?
+     III.	Harms of informational privacy violation	?
+          A.	Methodology	?
+               1.	The problem with starting from privacy	?
+               2.	Focus on harmful violations of privacy	?
+          B.	The concept of harm	?
+               1.	Harm principle	?
+               2.	Definition of harm	?
+                    a.	Setback of interest	?
+                         i.	Interests	?
+                              1.	Well-being	?
+                         ii.	Setbacks	?
+                              1.	Death	?
+                              2.	Other problems	?
+                    b.	Wrongfulness	?
+                    d.	Odd cases	?
+                         i.	Harmless rights violations	?
+                         Hurting without harming	?
+          Informational harms -- setbacks	?
+               1.	Exploiting weaknesses	?
+               Stalking and worse	?
+               3.	Threats to autonomy	?
+               4.	Relationships	?
+               5.	Democracy	?
+               The panoptic sort	?
+               Identity theft	?
+          D.	Informational harms -- rights violations	?
+               What kind of rights?	?
+                    a.	Non privacy rights	?
+                    b.	Right to protected sphere	?
+               2.	Accounts of right to protected sphere	?
+                    a.	Negative Liberty account	?
+                         i.	Positive liberty	?
+                         ii.	Negative liberty	?
+                         iii.	Right to protected sphere	?
+                         Objections 	?
+                    b.	Republican account	?
+                         ii.	Right to protected sphere	?
+                         iii.	Objections	?
+                    Relational account	?
+                         Right to protected sphere	?
+                         Objections	?
+          Can machines violate privacy?	?
+               No. Understanding matters	?
+               Application of 3 approaches	?
+  I.	Intro
+  II.	Test cases
+     A.	Data hoarder 
+     B.	Argument tweeter 
+     C.	Internet isolation
+     D.	People Ratings Agencies 
+  III.	Harms of informational privacy violation
+     A.	Methodology
+       1.	The problem with starting from privacy
+       2.	Focus on harmful violations of privacy 
+     B.	The concept of harm
+       1.	Harm principle
+       2.	Definition of harm
+          a.	Setback of interest
+            i.	Interests
+               1.	Well-being
+            ii.	Setbacks
+               1.	Death
+               2.	Other problems
+          b.	Wrongfulness
+          c.	Method
+          d.	Odd cases
+            i.	Harmless rights violations
+            ii.	Hurting without harming (self-defense)
+       1.	Exploiting weaknesses
+       2.	Location
+          a.	Car
+          b.	Phone
+            i.	Apps
+          c.	Social media 
+       3.	Threats to autonomy
+       4.	Relationships
+       5.	Democracy
+     D.	Informational harms -- rights violations
+       1.	Which rights?
+          a.	Non privacy rights
+          b.	Right to protected sphere
+       2.	Accounts of right to protected sphere
+          a.	Negative Liberty account
+            i.	Positive liberty
+            ii.	Negative liberty
+            iii.	Right to protected sphere
+          b.	Republican account
+            i.	Domination
+            ii.	Right to protected sphere
+            iii.	Objections
+               1.	Is collection always domination?
+               2.	Intrinsic wrongness of privacy invasion
