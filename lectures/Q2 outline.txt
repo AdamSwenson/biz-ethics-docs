@@ -1,6 +1,3 @@
-
-
-
 VERSION v.0.1.0
 
 Q2: Bads and blames	?
