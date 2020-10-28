@@ -202,7 +202,7 @@ The finders-keepers picture turns on creation of value. There has always been li
 and
 > As I have argued, the 'finders, keepers' ethic depends on the idea that within the same goods, some of the properties can be owned by the original holder, while other properties, namely those allowing for applications the original holder is not explicitly aware of, are unheld at the very same time and can thus, after discovery, be appropriated by the finder-creator. This introduces a certain kind of divisibility to goods which is necessary for finders-keepers to function adequately. {Sax:2016bq} 29
 
-I confess I don't entirely understand what Sax means by 'a certain kind of divisibility'. But I think we can get roughly his worry going by noting that, since we are basing the right to profit in ownership, people better be separable from their data. The closer any theory claims to saying people can be owned, the more aggressively we should reject it. 
+I don't entirely understand what Sax means by 'a certain kind of divisibility'. But I think we can get roughly his worry going by noting that, since we are basing the right to profit in ownership, people better be separable from their data. The closer any theory claims to saying people can be owned, the more aggressively we should reject it. 
 
 Let's try to sharpen this idea of divisibility up by noting two kinds of problems it can raise for an answer to Q1A1.
 
@@ -214,7 +214,9 @@ Oftentimes, the company doesn't need to be able to identify the people the data 
 
 Unfortunately, it is very hard to anonymize datasets. This is an active research problem for computer scientists. It matters a lot for, say, medical researchers to have a bunch of publicly available patient data. But those patients better never, ever be identifiable.[^fn10] 
 
-The problem is that for a variety of theoretical and mathematical reasons, it doesn't take too many data points to identify an individual. If this was the only issue, we would need to wade into different anonymization techniques and what counts as de-anonymizing data (e.g., is it enough to be able to figure out which records belong to the same person, or do you need to be able to determine who that person is). 
+The problem is that for a variety of theoretical and mathematical reasons, it doesn't take too many data points to identify an individual. If we know that someone was at the library on Tuesday at 10 AM, at the Starbucks on Reseda at 2 PM, and in Sierra Hall at 5 PM, we're getting pretty close to figuring out who they are (out of billions of people, we've narrowed it down to less than ~40,000 since they're likely either a CSUN student or faculty). 
+
+If this was the only issue, we would need to wade into different anonymization techniques and what counts as de-anonymizing data (e.g., is it enough to be able to figure out which records belong to the same person or do you need to be able to determine who that person is). 
 
 For our purposes, lets just note that as long as there are clever computer scientists around, it is really hard to completely anonymize a dataset.[^fn11]
 
@@ -228,7 +230,7 @@ Floridi's view is quite provocative. We can summarize it as claiming that you ar
 
 Floridi's view is quite radical. When he says that we are our data, he means it literally. It is quite possible that Sax does not need something so radical to make the claims he wants. 
 
-I confess I do not fully understand Floridi's view. But I can can at least give you a sense of how radical it is by setting out what he means by personal identity. 
+I confess I do not fully understand Floridi's view. For instance, if I am my data, presumably doing things to my data is doing things to me. Is the funny feeling I sometimes get in my foot a symptom of an algorithm running on Nike's database?  But I can can at least give you a sense of how radical it is by setting out what he means by personal identity. 
 
 Problems of  personal identity are ancient.[^fn13]  The basic question of personal identity is what makes you, you. Very broadly, this encompasses 2 sorts of questions: Diachronic personal identity concerns identity across time. Synchronic personal identity concerns identity at a particular time.
 
@@ -240,17 +242,17 @@ The person in the picture is very small. I am not small. I weigh 10x as much as 
 
 That matters because identity, in the sense of the equal sign '=', means that the things on each side are actually the same thing. If you have a pile of 2 things and toss in 3 things, you have 5 things. That's what 2+3=5 is telling you: 2+3 and 5 are completely interchangeable; they are the same thing. When you learn that Diana Prince is Wonder Woman, you immediately know that you should not mess with Diana.
 
-This means that 2 things that are identical shouldn't have any differences; if they are different they aren't the same thing. Suppose you're on a jury. If the prosecutor argues that the killer was driving a blue car, but the defense demonstrates that the defendant has only ever driven red cars, you should conclude that the defendant wasn't the killer.[^fn14] 
+This means that 2 things that are identical shouldn't have any differences; if they are different they aren't the same thing. Suppose you're on a jury. If the prosecutor argues that the killer was driving a blue car, but the defense conclusively demonstrates that the defendant has only ever driven red cars, you should conclude that the defendant wasn't the killer.[^fn14] 
 
-The diachronic problems of personal identity concern how it is that 2 people at different times are actually the same. How could it be that I, an adult, am same person as the baby in the picture? How could I be the same person as the drummer on the college-era punk rock demo I recently found? He plays much faster than I can.
+The diachronic problems of personal identity concern how it is that 2 people at different times are actually the same. How could it be that I, an adult, am same person as the baby in the picture? How could I be the same person as the drummer on the college-era punk rock demo I recently found? I can't play that fast. 
 
 These questions have moral importance. If my future self gets Alzheimers and has radically different mental abilities and personality, why should my present self have any say in what happens to him? More generally, why should any of us care more about our future selves than about other people?[^fn15]
 
-There are a wide range of attempts at answering questions about diachronic personal identity. You might think, well, as long as you have the same body as the person in the past/future, it's you. Unfortunately, your body is constantly changing. After a period of (IIRC) 8 years, almost no atoms in your body will be the same.[^fn16] If you stepped in a Star Trek style transporter which malfunctions and creates an exact duplicate out of different matter, would there be 2 of you? If the original person dies, how should the duplicated person feel?
+There are a wide range of attempts at answering questions about diachronic personal identity. You might think, well, as long as you have the same body as the person in the past/future, it's you. Unfortunately, your body is constantly changing. After a period of (IIRC) 8 years, almost no atoms in your body will be the same.[^fn16] If you stepped in a Star Trek style transporter which malfunctions and creates an exact duplicate out of different matter, would there be 2 of you? If the original person dies, how should the duplicated person feel? If your partner sleeps with your duplicate, is it cheating?
 
 You might try going down the Lockean road and say that memory is the key. Of course, human memories are fallible. All of us have lots of false memories. Maybe it's enough if as long as each day I remember something from the day before such that I'm the same person all the way back to the boy in the picture. Though do we want amnesia to be the literal death of a person? What if the amnesia is temporary? Are they suddenly resurrected?
 
-Questions of synchronic personal identity ---identity at a particular time--- are harder to motivate without going into too much depth. Consider all the thoughts, feelings, perceptions, sensations, and other things which you are presently aware of. What unifies them? Could it be that, as Hume thought, nothing does and we are nothing more than a bundle of perceptions?
+Questions of synchronic personal identity ---identity at a particular time--- are harder to motivate. Let me try. Consider all the thoughts, feelings, perceptions, sensations, and other things which you are presently aware of. What unifies them? Could it be that, as Hume thought, nothing does and we are nothing more than a bundle of perceptions?
 
 Maybe it's  just the fact that they are occurring in your head? But if it their proximity to each other is what matters, then when you and I press our heads together we should come closer to being the same person. 
 
@@ -260,7 +262,7 @@ Sax also claims that if the business models of big data companies are justified 
 
 Both accounts suggest that the only questions we can ask about the legitimacy of ownership are historical: Did you legitimately create the thing or obtain it through legitimate transfers? If the latter, were all the transfers back to the beginning legitimate? If the answer is 'yes', then there's nothing else to say. That's really significant. These accounts of justice rule out (or make very tricky) questions about the externalities of ownership (e.g., does your ownership negatively impact others) and distributional questions (e.g., how much wealth should any one person control). 
 
-One reason this may matter is that the privacy costs and benefits related to big data may need to be assessed cumulatively. It may be difficult to see the problems (and benefits) if we look only at individuals and the transfers between them. We need to look at what those mean overall. If one company has your information and uses it to target marketing to you, that may be relatively unproblematic. But if every area of your life is subject to different companies gathering information on you, that looks potentially more problematic. However, it seems, Sax claims, that these problems cannot be assessed on the Locke/Kirzner accounts of property. 
+One reason this may matter is that the privacy costs and benefits related to big data may need to be assessed cumulatively. It may be difficult to see the problems (and benefits) if we look only at individuals and the transfers between them. We need to look at what those mean overall. If one company has your information and uses it to target marketing to you, that may be relatively unproblematic. But if every area of your life is subject to different companies gathering information on you, that looks potentially more problematic. However, Sax claims, these problems cannot be assessed on the Locke/Kirzner accounts of property because of the historical conception they presuppose. 
 
 The proper account of justice is a long-running debate in political philosophy. For our purposes, we'll just note that the account is built on foundations which are, at best, still under construction.
 
@@ -299,6 +301,6 @@ The proper account of justice is a long-running debate in political philosophy. 
 
 [^fn16]: Apparently, (IIRC) a small bone in your inner ear which forms in utero and some cells in the enamel of your teeth are exceptions. But you wouldn't want to hang personal identity on that. The decision to have tooth pulled would be far more momentous.
 
-[^fn17]: It's better to think of nirvana as a verb (IIRC, as something like 'blow out' as in a candle). Thus, for the Buddhist, the only time it made sense to talk about 'reaching Nirvana' was if you had Dave Grohl's phone number in the early 90's.
+[^fn17]: It's better to think of nirvana as a verb (IIRC, it means something like 'blow out' as in a candle). Thus, for the Buddhist, the only time it made sense to talk about 'reaching Nirvana' was if you had Dave Grohl's phone number in the early 90's.
 	
 	Go ahead and groan. I am quite proud of that joke.
