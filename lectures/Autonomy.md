@@ -293,7 +293,7 @@ Now, finally, we can see why the line between autonomy and liberty matter. Consi
 
 Scarlet has liberty in both Robbery and Bathroom. But there's obviously a moral difference between them. Violet does something wrong in taking Scarlet's purse; Green does not. Therefore liberty cannot explain the moral difference. 
 
-What makes the moral difference between the two cases?  While she had liberty to refuse in both, in Bathroom she was fine with handing over her purse. In Robbery she was not fine with it. She agreed to Green taking her purse; she didn't agree to Scarlet taking it. She gave consent to Green but not to Scarlet
+What makes the moral difference between the two cases?  While she had liberty to refuse in both, in Bathroom she was fine with handing over her purse. In Robbery she was not fine with it. She agreed to Green taking her purse; she didn't agree to Violet taking it. She gave consent to Green but not to Violet.
 
 Consent is magic. It turns rights violations into things that are fine. If someone takes your stuff without it, they do something wrong, viz., theft. Without consent, having sex with someone is a horrible rights violation; with consent, it's (hopefully) a fun afternoon. We can see this in the law.  
 > Section 26.01 Larceny
