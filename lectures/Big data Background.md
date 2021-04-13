@@ -1,4 +1,4 @@
-Title: Background  
+Title: Q1A2 When we let them  
 Author:
 
 Background
@@ -20,13 +20,13 @@ Main Questions	?
 (Q2) Harms of informational privacy violation	?
 (Q3) Responsibility	?
 
-We're going to talk about topics that cut across a wide range of disciplines. That means we need to be familiar with a bunch of different concepts. Here's a very rough and very quick overview of some of them, just so we can all be on the same page. I'll then outline the questions we will seek to answer.
+We're going to talk about topics that cut across a wide range of disciplines. That means we need to be familiar with a bunch of different concepts. Here's a very rough and very quick overview of some of them. I'll then outline the questions we will seek to answer.
 
 Much of what we'll discuss revolves around the use of data. So, what's data?
 
 Very roughly, a piece of data (a datum) is a piece of information or a representation of a (purported) fact. If we're being careful, we'll say that data is information or a representation of a fact in the context of some use.[^fn1]  The temperature of the room you are in now is not data. It's just part of the way the world is. It would be data if we were adjusting the HVAC or running an experiment about how temperature affects the ability to read boring material. 
 
-This probably won't matter too much for our purposes, but just in case let me be clear about the relations between the world, facts, and data.
+This probably won't matter too much for our purposes, but since this is a philosophy class and we care about completeness above all else, here's a brief aside about the relations between the world, facts, and data.
 
 Data represent facts. What are facts? 
 
@@ -36,23 +36,27 @@ Let's start with the world.  A state-of-affairs is the way part of the world cou
 		At 6 PM on 10 May 2019, there is a taco in Adam's hand.
 		At 6 PM on 10 May 2019, the dog needs attention.
 
-All three are possible states of affairs. There could be a taco on Mars (perhaps via one of Elon Musk's schemes). I could have a taco (don't remind me). The dog could be needy. 
+All three are possible states of affairs. There could be a taco on Mars (perhaps via one of Elon Musk's schemes). I could have a taco (don't remind me). The dog could be needy (as is his nature). 
 
 While all 3 are possible. Only 1 is the way the world actually is right now; it is a state of affairs which obtains. There are no tacos on Mars; I am (sadly) taco-less. The dog keeps nudging me, bringing over toys, and otherwise acting cute in wanton disregard of my need to write this. Be right back. 
 
 So far so good? A fact is a states-of-affairs which obtains.[^fn2] Since the dog is actually (still!) in need of attention, it is a fact about how the world is right now.
 
-A fact is thus a way the world is at a given time. That has absolutely nothing to do with us. The universe is full of facts and was full of facts for billions of years before we arrived on the scene. Once creatures, especially ones with language, get on the scene, things get more complicated. That's because a fact can be represented in different ways. 
+A fact is thus a way the world is at a given time. That has absolutely nothing to do with us. The universe is full of facts and was full of facts for billions of years before we arrived on the scene. 
+
+Once creatures, especially ones with language, get on the scene things get more complicated. That's because a fact can be represented in different ways. 
 
 Suppose over time erosion has uncovered a big diamond on a beach. It is a fact that there is a diamond on that beach. If a turtle wanders by, the fact that there is a diamond on the beach will be represented by certain patterns of neural activity in its brain.[^fn3] An autonomous drone's camera could capture an image representing the fact. I could see it and squeal "Holy crap! There's a big diamond on the beach!" thus representing it with language; my Japanese speaking friend could do the same with "海に金剛石があります!"
 
 Thus a piece of data is a representation of a way the world is (i.e., a fact).[^fn4]
 
-Why not just say that data are facts and vice-versa? Setting aside careful conceptual analysis, there are also pragmatic reasons. One of the first questions we will ask concerns ownership of data. What would it even mean to say that someone owns a fact? Facts are abstract things.[^fn5]  The fact that I weigh 190 lbs[^fn6] can be expressed with different sentences. For example, 'if you make a big pile of all the things which weigh 190 lbs and look through it, you will find Adam' (hopefully near the top). Thus no one can own a fact. Even if you owned me, you would not own the fact about my weight.
+Why not just say that data are facts and vice-versa? Setting aside the desire to get things right through careful conceptual analysis, there are also pragmatic reasons. One of the first questions we will ask concerns ownership of data. What would it even mean to say that someone owns a fact? Facts are abstract things.[^fn5]  The fact that I weigh 190 lbs[^fn6] can be expressed with different sentences. For example, 'if you make a big pile of all the things which weigh 190 lbs and look through it, you will find Adam' (hopefully near the top). Thus no one can own a fact. Even if you owned me, you would not own the fact about my weight.
 
 Since data are representations of facts, they are the right sort of thing for ownership. Data plausibly can be owned (just like a copyright holder can own an image). If my weight is recorded in a database and someone hacks into the database and erases the record, presumably the company can sue her for destroying its property.
 
-Data comes in myriad flavors. Weather stations capture meteorological data. Stock markets create financial data. We will mostly be concerned with personal data. So, what's personal data? Data of a personal nature. Moving on....
+Data comes in myriad flavors. Weather stations capture meteorological data. Stock markets create financial data. We will mostly be concerned with personal data.
+
+ So, what's personal data? Easy. It's data of a personal nature. Moving on....
 
 Just kidding (although not by much). Personal data is a proper subset[^fn7] of data. It is data about a natural person. Since we will be concerned with data that can be used in ways which harm individuals, we'll use the somewhat narrower definition is the found in the European Union's Data Protection Directive, namely 
 
@@ -66,11 +70,11 @@ We thus need to talk a bit about natural persons and the something being linked 
 
 To be a person in our sense is to have a certain moral status. It is a moral term, not just a synonym for 'human being'. All (living) human beings are persons, but it need not always refer to humans. We'll come back to this at the end of the semester, but for now, it will be enough to draw some rough distinctions.
 
-You, me, and all the people in your life except for your imaginary friends are natural persons. Trees, rocks, and tacos are non-persons. Corporations, states, and other entities whose existence depends on things like acts of law are unnatural persons. 
+You, me, and all the people in your life except for your imaginary friends are natural persons. Trees, rocks, and tacos are non-persons. Corporations, states, and other entities with a certain moral / legal status whose existence depends on things like acts of law are unnatural persons. 
 
 There may be borderline cases. If a robot turns out to be sufficiently like a human being that similar moral considerations should be extended to them, then perhaps the robot would be a natural person. For now, natural persons are limited to human beings.
 
-What it is for data to be 'about' or 'linked to' a natural person? Since data represent facts, part of the answer is that a person is the subject of the fact. For example, Adam weighs 190 lbs is[^fn10] a fact. I am the subject of the sentence 'Adam weighs 190 lbs'. Thus the entry in the database which records this fact is about me. 
+What does it mean for data to be 'about' or 'linked to' a natural person? Since data represent facts, part of the answer is that a person is the subject of the fact. For example, Adam weighs 190 lbs is[^fn10] a fact. I am the subject of the sentence 'Adam weighs 190 lbs'. Thus the entry in the database which records this fact is about me. 
 
 But our definition of personal data requires that the person in question be 'identified or identifiable'. The ability to link a piece of data to a natural person is the decisive feature. 
 
@@ -105,7 +109,7 @@ For a simple example, here's the attendance algorithm I follow[^fn13] at the beg
 
 Following these steps produces a list of who is present. Assuming I don't have infinite students[^fn14], this is an algorithm. 
 
-If wanted a computer to do this, we'd (of course) write it in python. It might look something like (lines starting with '#' or enclosed between triple quotes """this is a comment""" are comments for humans to understand what's going on and not part of the instructions the computer follows):
+If wanted a computer to do this, we'd (of course) write it in python. It might look something like  the following (lines starting with '#' or enclosed between triple quotes """this is a comment""" are comments for humans to understand what's going on and not part of the instructions the computer follows):
 
 
 	def take_attendance(list_of_students):
@@ -128,16 +132,14 @@ If wanted a computer to do this, we'd (of course) write it in python. It might l
 	            mark_present(student)
 	        
 
-Note that `mark_present` and `call_student_name` are two other functions which do what they're named.
+Note that `mark_present`, `call_student_name`, `ask_if_anyone_was_missed` are separate  functions which do what they're named.
 
-Databases store data. Databases come in many different formats. Index cards in a shoebox can be a database. A simple spreadsheet is a database. A complex relational databases with hundreds of tables is one; I mean it's right there in the name. Massively overhyped[^fn15] and more-trouble-than-they're-worth NoSQL stores are databases. 
+Databases store data. Databases come in many different formats. Index cards in a shoebox can be a database. A conspiracy theorist's newspaper and twine covered wall can be a database. A simple spreadsheet is a database. A complex relational databases with hundreds of tables is one; I mean it's right there in the name. Massively overhyped[^fn15] and more-trouble-than-they're-worth NoSQL stores are databases. 
 
-On its own, the type of database won't really matter for the questions we are interested in. Though the type of database involved may affect how concerned we are about certain types of privacy violations. If your personal information is written on an index card, randomly tossed in a shoebox, and that shoebox randomly tossed into a storage unit with thousands of similar shoeboxes, it's going to take an awful lot of luck or work to violate your privacy. In a well-designed relational database, the information will be broken up across a whole series of tables. The most time consuming step in  finding your information can be typing in the query.
+On its own, the type of database won't really matter for the questions we are interested in. Though the type of database involved may affect how concerned we are about certain types of privacy violations. If your personal information is written on an index card, randomly tossed in a shoebox, and that shoebox randomly tossed into a storage unit with thousands of similar shoeboxes, it's going to take an awful lot of luck or work to violate your privacy. In a well-designed relational database, the information will be broken up across a whole series of tables. The most time consuming step in finding your information can be typing in the query.
 
 
 Database type will also affect how powerful data mining techniques will be. Again, a well-designed relational database abstracts out all the data which allows us to connect things in novel ways. For example, if we have one table that holds people's names, one table that holds weights, and a third that holds pet preferences, we can easily look for correlations in weights and pet ownership. Try that with a shoebox full of index cards.
-
-[ToDo: brief overviews of how some data mining techniques work]
 
 Companies have collected data on their customers forever. Many of the hottest data-mining algorithms have roots in statistical techniques that have been around awhile. Why are we so worried about this stuff now? What's changed?
 
@@ -151,7 +153,7 @@ Indeed, the wealth of very granular data has given rise to companies who special
 
 Nowadays, we call this big data. 
 
-To paraphrase an expert on the B.I.G., big data, big problems. 
+To paraphrase an expert on the B.I.G.: mo' data, mo' problems. 
 
 We're going to ask 3 questions.
 
@@ -185,7 +187,7 @@ Third, when the widespread use of sophisticated machine learning algorithms meet
 
 If you are hurt by a process that had no human involvement, who is to blame? Sure the company may be legally liable. But who in the company may be blame? It will take a lot of work later on to make this question make sense, but for now let's just note that a lot of harm can be done to people without any human beings being involved in causing the harm. This puts pressure on our ordinary understandings of blame, punishment, and other notions of moral responsibility. Thus our question will be 
 
-> (Q3) How should we assign responsibility when people are harmed by algorithmic uses of personal data?
+> (Q3) How should we assign moral responsibility when people are harmed by algorithmic uses of personal data?
 
 Q3: Responsibility
 
@@ -193,7 +195,7 @@ Q3: Responsibility
 
 [^fn2]: As you might guess, there are plenty of alternative views. I'm describing one influential picture which comes from D.M. Armstrong.
 
-[^fn3]: I'm ignoring a giant wrinkle in the different ways things can be represented. Having concepts / language makes a big difference. The turtle presumably doesn't have a concept of diamonds (it lacks language and, even if concepts aren't tied tightly to language, diamonds have little salience to a turtle). The representation is more like the way a photograph represents the world.  When we see a diamond it comes with a ton of  baggage. Our possession of a concept for diamonds may even affect how the object appears to us. For example, there is evidence that we are wired such that valuable things appear larger.
+[^fn3]: I'm ignoring a giant wrinkle in the different ways things can be represented. Having concepts / language makes a big difference. The turtle presumably doesn't have a concept of diamonds (it lacks language and, even if concepts aren't tied tightly to language, diamonds have little salience to a turtle). The representation is more like the way a photograph represents the world.  When we see a diamond it comes with a ton of  baggage. Our possession of a concept for diamonds may even affect how the object appears to us. For example, there is evidence that we are neurologically wired such that valuable things appear larger.
 
 [^fn4]: NB, on this definition, there is no bad data ---data which fails to represent a fact. Those sentences/numbers would fail to be data. Try not to worry about that; we're deep enough in the weeds as it is.
 
